@@ -51,14 +51,15 @@
   margin-left: 195px;
 }
 
-.header__address-spacing-extended {
+.address-spacing-extended {
   letter-spacing: 0.1px;
   text-decoration: underline;
   text-underline-offset: 5px;
 
 }
 
-.header__address-spacing-normal {
+.address-spacing-font-style-normal {
+  font-style: normal;
   letter-spacing: 0;
 }
 
