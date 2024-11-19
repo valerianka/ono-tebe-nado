@@ -341,10 +341,6 @@
   margin: 182px 50px 88px 50px;
 }
 
-.footer__menu {
-
-}
-
 .footer__menu-list {
   display: flex;
   flex-direction: column;
@@ -370,10 +366,6 @@
   justify-content: end;
   gap: 48px;
   list-style: none;
-}
-
-.footer__social-list-item {
-
 }
 
 .footer__social-link {
