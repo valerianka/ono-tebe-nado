@@ -66,15 +66,16 @@
   display: flex;
   grid-column: 2/3;
   align-items: center;
-  max-height: 105px;
+}
+
+.header__logo_image {
+  display: block;
+  width: 100%;
+  min-height: 105px;
   background-image: url(../images/logo-black.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-}
-
-.header__logo_image {
-  min-height: 105px;
 }
 
 .cover {
